@@ -1,0 +1,6 @@
+
+Cluster 1: ['doc1.txt', 'doc2.txt']
+
+Cluster 2: ['doc3.txt']
+
+Cluster 3: ['doc4.txt']
