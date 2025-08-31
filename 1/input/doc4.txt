@@ -1,0 +1,3 @@
+Computer networks connect devices and enable communication. 
+Networking involves protocols, topology, and transmission media. 
+The internet is the largest network, supporting global communication.

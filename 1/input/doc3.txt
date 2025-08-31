@@ -1,0 +1,3 @@
+Data mining is the process of discovering patterns in large datasets. 
+It combines statistics, artificial intelligence, and database systems. 
+Mining useful information helps decision making.

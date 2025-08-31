@@ -1,0 +1,3 @@
+Machine learning is a subset of artificial intelligence. 
+Learning algorithms build mathematical models based on sample data, known as training data. 
+These models make predictions or decisions without being explicitly programmed.
