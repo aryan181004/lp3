@@ -1,0 +1,105 @@
+[
+    [
+        {
+            "machin": 9,
+            "learn": 10,
+            "subset": 1,
+            "artifici": 15,
+            "intellig": 31,
+            "algorithm": 1,
+            "build": 1,
+            "mathemat": 1,
+            "model": 2,
+            "base": 1,
+            "sampl": 1,
+            "data": 8,
+            "known": 1,
+            "train": 1,
+            "make": 7,
+            "predict": 1,
+            "decis": 7,
+            "without": 1,
+            "explicitli": 1,
+            "program": 1,
+            "simul": 8,
+            "human": 8,
+            "process": 22,
+            "ai": 8,
+            "applic": 8,
+            "includ": 8,
+            "natur": 8,
+            "languag": 8,
+            "speech": 8,
+            "recognit": 8,
+            "comput": 8,
+            "vision": 8,
+            "abil": 8,
+            "reason": 8,
+            "self": 8,
+            "correct": 8,
+            "mine": 12,
+            "discov": 6,
+            "pattern": 6,
+            "larg": 6,
+            "dataset": 6,
+            "combin": 6,
+            "statist": 6,
+            "databas": 6,
+            "system": 6,
+            "use": 6,
+            "inform": 6,
+            "help": 6
+        },
+        [
+            "doc1.txt",
+            "doc2.txt"
+        ]
+    ],
+    [
+        {
+            "data": 1,
+            "mine": 2,
+            "process": 1,
+            "discov": 1,
+            "pattern": 1,
+            "larg": 1,
+            "dataset": 1,
+            "combin": 1,
+            "statist": 1,
+            "artifici": 1,
+            "intellig": 1,
+            "databas": 1,
+            "system": 1,
+            "use": 1,
+            "inform": 1,
+            "help": 1,
+            "decis": 1,
+            "make": 1
+        },
+        [
+            "doc3.txt"
+        ]
+    ],
+    [
+        {
+            "comput": 1,
+            "network": 3,
+            "connect": 1,
+            "devic": 1,
+            "enabl": 1,
+            "commun": 2,
+            "involv": 1,
+            "protocol": 1,
+            "topolog": 1,
+            "transmiss": 1,
+            "media": 1,
+            "internet": 1,
+            "largest": 1,
+            "support": 1,
+            "global": 1
+        },
+        [
+            "doc4.txt"
+        ]
+    ]
+]
