@@ -1,0 +1,199 @@
+{
+    "machin": [
+        "doc1.txt",
+        "doc2.txt"
+    ],
+    "learn": [
+        "doc1.txt",
+        "doc2.txt"
+    ],
+    "subset": [
+        "doc1.txt"
+    ],
+    "artifici": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "intellig": [
+        "doc1.txt",
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "algorithm": [
+        "doc1.txt"
+    ],
+    "build": [
+        "doc1.txt"
+    ],
+    "mathemat": [
+        "doc1.txt"
+    ],
+    "model": [
+        "doc1.txt"
+    ],
+    "base": [
+        "doc1.txt"
+    ],
+    "sampl": [
+        "doc1.txt"
+    ],
+    "data": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "known": [
+        "doc1.txt"
+    ],
+    "train": [
+        "doc1.txt"
+    ],
+    "make": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "predict": [
+        "doc1.txt"
+    ],
+    "decis": [
+        "doc1.txt",
+        "doc3.txt"
+    ],
+    "without": [
+        "doc1.txt"
+    ],
+    "explicitli": [
+        "doc1.txt"
+    ],
+    "program": [
+        "doc1.txt"
+    ],
+    "simul": [
+        "doc2.txt"
+    ],
+    "human": [
+        "doc2.txt"
+    ],
+    "process": [
+        "doc2.txt",
+        "doc3.txt"
+    ],
+    "ai": [
+        "doc2.txt"
+    ],
+    "applic": [
+        "doc2.txt"
+    ],
+    "includ": [
+        "doc2.txt"
+    ],
+    "natur": [
+        "doc2.txt"
+    ],
+    "languag": [
+        "doc2.txt"
+    ],
+    "speech": [
+        "doc2.txt"
+    ],
+    "recognit": [
+        "doc2.txt"
+    ],
+    "comput": [
+        "doc2.txt",
+        "doc4.txt"
+    ],
+    "vision": [
+        "doc2.txt"
+    ],
+    "abil": [
+        "doc2.txt"
+    ],
+    "reason": [
+        "doc2.txt"
+    ],
+    "self": [
+        "doc2.txt"
+    ],
+    "correct": [
+        "doc2.txt"
+    ],
+    "mine": [
+        "doc3.txt"
+    ],
+    "discov": [
+        "doc3.txt"
+    ],
+    "pattern": [
+        "doc3.txt"
+    ],
+    "larg": [
+        "doc3.txt"
+    ],
+    "dataset": [
+        "doc3.txt"
+    ],
+    "combin": [
+        "doc3.txt"
+    ],
+    "statist": [
+        "doc3.txt"
+    ],
+    "databas": [
+        "doc3.txt"
+    ],
+    "system": [
+        "doc3.txt"
+    ],
+    "use": [
+        "doc3.txt"
+    ],
+    "inform": [
+        "doc3.txt"
+    ],
+    "help": [
+        "doc3.txt"
+    ],
+    "network": [
+        "doc4.txt"
+    ],
+    "connect": [
+        "doc4.txt"
+    ],
+    "devic": [
+        "doc4.txt"
+    ],
+    "enabl": [
+        "doc4.txt"
+    ],
+    "commun": [
+        "doc4.txt"
+    ],
+    "involv": [
+        "doc4.txt"
+    ],
+    "protocol": [
+        "doc4.txt"
+    ],
+    "topolog": [
+        "doc4.txt"
+    ],
+    "transmiss": [
+        "doc4.txt"
+    ],
+    "media": [
+        "doc4.txt"
+    ],
+    "internet": [
+        "doc4.txt"
+    ],
+    "largest": [
+        "doc4.txt"
+    ],
+    "support": [
+        "doc4.txt"
+    ],
+    "global": [
+        "doc4.txt"
+    ]
+}
